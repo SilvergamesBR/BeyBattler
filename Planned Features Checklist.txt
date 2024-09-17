@@ -1,0 +1,14 @@
+Minimum goals:
+Generic Bey Movement and Attack system - Done
+Basic Arena Art and generic Bey Sprite - Done
+
+Extra goals:
+Expand battle mechanics and enhance the feel - Done
+Basic soundtrack and sound effects- Done
+Title screen and Settings Screen - 1/2
+
+Reach Goals:
+Multiple Beys with potential different stats and/or abilities -
+Player Select screen - 
+Multiple stages with different Features - 
+Ultimate Skills for each Bey - 

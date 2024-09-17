@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|c:\\users\\lucas\\onedrive\\documents\\my games\\beybattle\\beybattler\\assets\\scripts\\movementp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\assets\\scripts\\movementp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\assets\\scripts\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\assets\\scripts\\victorydetect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B283C-9388-F39E-997E-BA12BD3C22A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\victorydetect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collision.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\Collision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collision.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\Collision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:00:26.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuController.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:12:33.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VictoryDetect.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\VictoryDetect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VictoryDetect.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\VictoryDetect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VictoryDetect.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:09:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovementP2.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\MovementP2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementP2.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\MovementP2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementP2.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:54:40.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovementP1.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\MovementP1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementP1.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documents\\My Games\\BeyBattle\\BeyBattler\\Assets\\Scripts\\MovementP1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementP1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:54:46.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
